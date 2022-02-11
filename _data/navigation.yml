@@ -7,7 +7,7 @@ links:
   - title: Resource
     resource_room: true
   - title: Test
-    url: /permalink
+    url: /Test
   - title: Job scope
     url: /job-scope
     sublinks:
