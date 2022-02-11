@@ -2,4 +2,5 @@ collections:
   hello-there:
     output: true
     order:
+      - Test 3/.keep
       - Hello here.md
