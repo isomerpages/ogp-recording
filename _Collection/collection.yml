@@ -1,0 +1,6 @@
+collections:
+  Collection:
+    output: true
+    order:
+      - Page/.keep
+      - Page/Subpage.md
