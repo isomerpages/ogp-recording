@@ -1,4 +1,5 @@
 collections:
   hello-there:
     output: true
-    order: []
+    order:
+      - Hello here.md
