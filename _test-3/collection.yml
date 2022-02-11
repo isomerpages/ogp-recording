@@ -1,5 +1,4 @@
 collections:
   test-3:
     output: true
-    order:
-      - testing 2.md
+    order: []
